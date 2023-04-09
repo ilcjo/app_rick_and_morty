@@ -1,0 +1,5 @@
+export const ADD_FAV = "ADD_FAV "
+export const REMOVE_FAV = "REMOVE_FAV"
+export const FILTERCARDS = "FILTERCARDS"
+export const ORDERCARDS = "ORDERCARDS"
+export const RESET = "RESET"
